@@ -50,40 +50,13 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valtodpribadi2-maker&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valtodpribadi2-maker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valtodpribadi2-maker&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=valtodpribadi2-maker&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ### 📌 Proyek Unggulan
 
-<p align="center">
-  <a href="https://github.com/valtodpribadi2-maker/tkm-aichat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valtodpribadi2-maker&repo=tkm-aichat&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/valtodpribadi2-maker/groq-chat-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valtodpribadi2-maker&repo=groq-chat-ai&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/valtodpribadi2-maker/dork-searc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valtodpribadi2-maker&repo=dork-searc&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- 🔗 [TEMP-MAIL](https://github.com/valtodpribadi2-maker/TEMP-MAIL) — Layanan email sementara
+- 🔗 [TRADING-SIMULATION](https://github.com/valtodpribadi2-maker/TRADING-SIMULATION) — Simulasi trading
+- 🔗 [MAZE-AI-CRYPTO](https://github.com/valtodpribadi2-maker/MAZE-AI-CRYPTO) — AI & Crypto experiment
 
 ---
 
