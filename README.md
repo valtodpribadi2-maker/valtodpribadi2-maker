@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:valtodpribadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/username_kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/@remembervall"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 - 🌱 Belajar hal baru seputar **LLM, Groq API, dan AI Search**
 - 💡 Hobi otak-atik sesuatu sampai jadi sesuatu yang berguna (atau setidaknya seru)
 - 💬 Ajak diskusi soal: AI Chatbot, Python, atau proyek iseng lainnya
-- 📫 Cara menghubungi saya: **emailkamu@gmail.com**
+- 📫 Cara menghubungi saya: **valtodpribadi@gmail.com**
 
 ---
 
