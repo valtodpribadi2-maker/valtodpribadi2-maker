@@ -71,16 +71,16 @@
 ### 📌 Proyek Unggulan
 
 <p align="center">
-  <a href="https://github.com/valtodpribadi2-maker/tkm-aichat">
+  <a href="https://github.com/valtodpribadi2-maker/MAZE-AI-CRYPTO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valtodpribadi2-maker&repo=tkm-aichat&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/valtodpribadi2-maker/groq-chat-ai">
+  <a href="https://github.com/valtodpribadi2-maker/TEMP-MAIL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valtodpribadi2-maker&repo=groq-chat-ai&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/valtodpribadi2-maker/dork-searc">
+  <a href="https://github.com/valtodpribadi2-maker/TRADING-SIMULATION">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valtodpribadi2-maker&repo=dork-searc&theme=tokyonight&hide_border=true" />
   </a>
 </p>
